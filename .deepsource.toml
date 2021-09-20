@@ -6,3 +6,4 @@ enabled = true
 
   [analyzers.meta]
   import_root = "github.com/brevity-engine/sql-jobber"
+  dependencies_vendored = false
